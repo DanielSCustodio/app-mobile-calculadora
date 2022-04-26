@@ -1,1 +1,1 @@
-Desenvolver este aplicativo foi uma tarefa da faculdade, desenvolvi uma calculadora simples, tipo calculadora de bolso. Utilizando Java.
+Desenvolvimento de um aplicativo Android. Este aplicativo foi uma tarefa da faculdade, desenvolvi uma calculadora simples, com funcionalidades de uma calculadora de bolso utilizando Java.
